@@ -39,3 +39,8 @@ some cases, there is also a filtered version, that was generated manually.
 ##Report
 
 The report pdf and it's source files are on the `report` directory.
+
+##Repository
+
+The source code for the coursework is also available on a [github
+repository](https://github.com/alemedeiros/ecs640-coursework1).
